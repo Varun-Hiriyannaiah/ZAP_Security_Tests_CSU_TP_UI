@@ -18,7 +18,7 @@ import org.zaproxy.clientapi.core.ClientApiException;
 
 import java.time.Duration;
 
-public class ZAP_SecurityTest_CSUTransferPlannerGeneralEducationProgessPage {
+public class ZAP_SecurityTest_CSUTransferPlannerMoreAboutMePage {
 
     static final String ZAP_PROXY_ADDRESS = "localhost";
     static final int ZAP_PROXY_PORT = 8080;
